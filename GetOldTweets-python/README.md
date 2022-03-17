@@ -1,6 +1,5 @@
 # Get Old Tweets Programatically
-A project written in Python to get old tweets, it bypass some limitations of Twitter Official API.
-Original Link: https://github.com/Jefferson-Henrique/GetOldTweets-python
+A project written in Python to get old tweets, it bypass some limitations of Twitter Official API. It is collected from this link (Original Link: https://github.com/Jefferson-Henrique/GetOldTweets-python) and I made few changes so that the output is more readable in a csv file.
 
 You have to install some packages by typing ```pip install -r requirements.txt``` .
 I needed python3 to make it run.
