@@ -1,0 +1,172 @@
+1093566368836775936,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,4,11,Thu Feb 07 17:45:14 +0000 2019,"Neural Networks seem to follow a puzzlingly simple strategy to classify images
+
+https://t.co/G2c7jmgHBQ"
+1093398263972032513,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,3,Thu Feb 07 06:37:15 +0000 2019,"Google's plan to build 6,600 houses in Mountain View
+https://t.co/SGrpLABhqF"
+1093195720524353536,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Wed Feb 06 17:12:25 +0000 2019,https://t.co/RvbK9QLtMw
+1093049379538186240,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,2,0,Wed Feb 06 07:30:54 +0000 2019,RT @VentureBeat: https://t.co/srnfUBGWb9 raises $18 million for at-home urinalysis tests https://t.co/3xoD4q8Ix3
+1092637973839982592,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Tue Feb 05 04:16:07 +0000 2019,https://t.co/Qq8GA7MbEj
+1090169507836944384,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,7487,0,Tue Jan 29 08:47:19 +0000 2019,"RT @GoogleIndia: We
+really
+really
+really
+  really
+    really
+    really
+   really
+ really
+really
+really
+really
+really
+really
+really
+really…"
+1089918371875831810,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,1,1,Mon Jan 28 16:09:24 +0000 2019,"Amazon has announced a new open source project, Neo-AI, which attempts to optimize the performance of machine learn… https://t.co/QhquHS4RhA"
+1088331732166692864,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,208,0,Thu Jan 24 07:04:39 +0000 2019,RT @thisisinsider: Ever wondered what's inside a baseball? ⚾️ https://t.co/8W3Jj22zxy
+1088328096472649729,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,673,0,Thu Jan 24 06:50:13 +0000 2019,"RT @GoogleAI: Introducing Natural Questions, a new, large-scale corpus and challenge for training and evaluating open-domain question answe…"
+1086866995893551106,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,5,Sun Jan 20 06:04:19 +0000 2019,@realDonaldTrump Remove travel ban! #RemoveTravelBan
+1086866801382715393,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,1,2,Sun Jan 20 06:03:33 +0000 2019,@realDonaldTrump I support stopping illegal immigration! You should remove travel ban which stops legal immigration ASAP though!
+1081377251810131969,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Sat Jan 05 02:30:02 +0000 2019,@mh8h Had you ever seen https://t.co/xaN510RYjM give even 1% discount on an iPhone in the last 10 years?! They are… https://t.co/T5kKsW1kBQ
+1081376977079099392,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Sat Jan 05 02:28:57 +0000 2019,@mh8h I don't think China's slowdown is why Apple is in trouble! The issue is deeper! Apple is in trouble because p… https://t.co/q1eju5uS0K
+1079480188050669568,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,3,Sun Dec 30 20:51:47 +0000 2018,I feel so out of touch with the people and what they care about around me. I thought I will look at Google trends t… https://t.co/5ztvMlz6NF
+1079049222794620928,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,48711,0,Sat Dec 29 16:19:17 +0000 2018,"RT @BarackObama: As 2018 draws to a close, I’m continuing the tradition of sharing my year-end lists. It gives me a moment to reflect on th…"
+1075816316945149952,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,3,Thu Dec 20 18:12:52 +0000 2018,"Fill in the blanks! What is your prediction on where this curve is going?
+#NASDAQ https://t.co/9F4JMp3pt0"
+1075468169303609344,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,1,Wed Dec 19 19:09:27 +0000 2018,"Dawn of the Facebook...
+https://t.co/qiW4zDtelL"
+1070496482023792640,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,1,Thu Dec 06 01:53:44 +0000 2018,"List of best places to work in 2019:
+https://t.co/LHFe2bk0Ob"
+1054770919703425024,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,1,Tue Oct 23 16:25:58 +0000 2018,Interested in jump-starting your career in machine learning research? Consider the Google AI Residency Program! App… https://t.co/QbvswJQSgY
+1050981512965832704,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,500,0,Sat Oct 13 05:28:13 +0000 2018,RT @sundarpichai: Encouraged by the progress in our #GoogleAI work on metastatic breast cancer detection: pathologists + our AI models work…
+1050650437303468035,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,1,0,Fri Oct 12 07:32:39 +0000 2018,https://t.co/y2KJgrZ8ft
+1049925073165938688,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,2,2,Wed Oct 10 07:30:18 +0000 2018,https://t.co/FuwE0i83YE
+1049224445561204736,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,140,0,Mon Oct 08 09:06:16 +0000 2018,RT @eigenhector: Google 2019 research internships are now open https://t.co/rxmLEPLsir
+1049218980131401728,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Mon Oct 08 08:44:33 +0000 2018,https://t.co/KX9Ga79IZt
+1048049148455411712,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,1,Fri Oct 05 03:16:03 +0000 2018,https://t.co/Gk2pXVarAB
+1047755124037152768,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Thu Oct 04 07:47:42 +0000 2018,https://t.co/aDqmGBPJZm
+1047016276156190720,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,1,Tue Oct 02 06:51:47 +0000 2018,"This will be big...playing video games in Chrome online
+https://t.co/EuxHQQbIEQ"
+1043409121330909185,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,12,0,Sat Sep 22 07:58:14 +0000 2018,RT @Michael_J_Black: Estimate 3D body pose from only 6 body-worn IMUs in real time using a deep network. Our new SIGGRAPH Asia paper is now…
+1043311533177036801,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,1,0,Sat Sep 22 01:30:27 +0000 2018,https://t.co/J6XH1wurTm
+1042661661239259137,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,2,10,Thu Sep 20 06:28:06 +0000 2018,https://t.co/WRZffcb83l
+1039402353424658433,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Tue Sep 11 06:36:46 +0000 2018,":(
+https://t.co/A7gUYPDfmN"
+1038299761617526784,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Sat Sep 08 05:35:28 +0000 2018,https://t.co/nd2nBCtrGR
+1037601062327267328,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,3245,0,Thu Sep 06 07:19:05 +0000 2018,"RT @GoogleAI: Announcing the launch of Dataset Search, a new way for researchers to find the datasets they need, wherever they’re hosted, w…"
+1037574445248864256,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,1,1,Thu Sep 06 05:33:19 +0000 2018,https://t.co/sI2NH3pSyM
+1037406973845598209,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Wed Sep 05 18:27:51 +0000 2018,https://t.co/NVQlW21boE
+1037155702559494145,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,692,0,Wed Sep 05 01:49:23 +0000 2018,RT @NipsConference: #NIPS2018 The main conference sold out in 11 minutes 38 seconds
+1035965808218759168,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,1,0,Sat Sep 01 19:01:10 +0000 2018,"According to KPMG’s Venture Pulse Report, venture capital (VC) investment in artificial intelligence almost doubled… https://t.co/fOuUp2Qnhq"
+1035336565378019329,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Fri Aug 31 01:20:47 +0000 2018,https://t.co/QxdjmOvwiM
+1034149573411758082,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Mon Aug 27 18:44:06 +0000 2018,https://t.co/AnWJbhsEqG
+1031592869927112707,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Mon Aug 20 17:24:40 +0000 2018,"Japanese online clothing uses body shape estimation
+https://t.co/rIPMxe51Fl"
+1030485292539568128,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Fri Aug 17 16:03:33 +0000 2018,"Trump calls on regulators to consider changing how often companies report earnings
+
+https://t.co/tl6VcgTh3d"
+1030114347119333376,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Thu Aug 16 15:29:33 +0000 2018,https://t.co/i4BqxBYNKG
+1030003036947591168,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Thu Aug 16 08:07:15 +0000 2018,https://t.co/oX5XOrCUqD
+1030002643983167493,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Thu Aug 16 08:05:41 +0000 2018,https://t.co/zkOZq8DNnN
+1029762347886206976,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Wed Aug 15 16:10:50 +0000 2018,https://t.co/LTVKQnaYXz
+1029403994655866880,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Tue Aug 14 16:26:52 +0000 2018,"World's most livable cities in 2018
+https://t.co/NHki6QitMA"
+1029388135602434048,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,87,0,Tue Aug 14 15:23:51 +0000 2018,"RT @WIRED: Today, Alphabet is announcing an investment of $375 million in Oscar Health. CEO Mario Schlosser spoke with WIRED about what tha…"
+1029184963764137984,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,1289,0,Tue Aug 14 01:56:31 +0000 2018,"RT @elonmusk: @Tesla I’m excited to work with Silver Lake and Goldman Sachs as financial advisors, plus Wachtell, Lipton, Rosen &amp; Katz and…"
+1029024470512455680,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Mon Aug 13 15:18:46 +0000 2018,Where the stock market is hit the most in the emerging markets... https://t.co/4pkOsxbbgx
+1028892418635063296,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,1,Mon Aug 13 06:34:03 +0000 2018,"Oh boy...
+https://t.co/2MiX0G057W"
+1028332498101592064,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,29,0,Sat Aug 11 17:29:07 +0000 2018,"RT @CNBC: 13% of divorcees blame student loans specifically for ending their relationship, a new study finds. https://t.co/vP7NUE293Z"
+1028178564644929536,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,55,0,Sat Aug 11 07:17:27 +0000 2018,RT @TheEconomist: Is the property boom in big cities coming to an end? https://t.co/h2I5Xy20pI
+1028090130156773376,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,26,0,Sat Aug 11 01:26:02 +0000 2018,RT @Kent_Walker: Great to see this $1M @Googleorg  donation to @ai4allorg to help underrepresented students learn about AI and explore its…
+1028046479426867201,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Fri Aug 10 22:32:35 +0000 2018,https://t.co/pgnYq74JlE
+1027590459797860354,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Thu Aug 09 16:20:31 +0000 2018,"A ""leaf blower"" is the most stupid device invented in the history of man kind! My task every morning walking to wor… https://t.co/tuVxgtLODH"
+1027453707883954177,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,4,0,Thu Aug 09 07:17:07 +0000 2018,"RT @JosPolfliet: Why is it so hard to make an Italian NLP model? You need to add gesture detection.
+@AndrewYNg #AIpun"
+1027453631686004736,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,5,0,Thu Aug 09 07:16:49 +0000 2018,RT @iVanPeer: Why do we need Machine Learning? Because we realised that it's far easier to teach machines than humans!? 😉 #AIpun
+1027453568435908608,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,42,0,Thu Aug 09 07:16:34 +0000 2018,"RT @pandeyparul: @AndrewYNg #AIpun
+Q: What is Brain's Favourite cable Television Channel?
+A: The Neural Network"
+1027367103655866368,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Thu Aug 09 01:32:59 +0000 2018,https://t.co/xJM6YPRd2T
+1027365666234368000,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Thu Aug 09 01:27:17 +0000 2018,"Tesla likely to face SEC investigation following Musk tweets amid debate of market manipulation
+
+https://t.co/7RmyYsq1yp"
+1027216219902861312,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,1,7,Wed Aug 08 15:33:26 +0000 2018,"After almost a decade and billions in outside investment, Magic Leap's first product is finally on sale for $2,295.… https://t.co/yKSXsvl5nN"
+1027097058816221184,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,93,0,Wed Aug 08 07:39:56 +0000 2018,RT @quantombone: Holistic 3D Scene Parsing and Reconstruction from a Single RGB Image. New #eccv2018 work from Song-Chun Zhu’s group at UCL…
+1026738520205885440,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,1,Tue Aug 07 07:55:13 +0000 2018,https://t.co/4w54D3wVUT
+1026738240257052672,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Tue Aug 07 07:54:07 +0000 2018,"Zillow tanks after acquisition of mortgage lender, revenue miss
+
+https://t.co/IgybsWw5m4"
+1026729595045728256,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,130,0,Tue Aug 07 07:19:45 +0000 2018,"RT @vitoreduardods: @AndrewYNg What do you call a group of variables that go to gym?
+- A training set. 🤔
+#AIpun"
+1026729430679314437,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,201,0,Tue Aug 07 07:19:06 +0000 2018,"RT @philmohun: @AndrewYNg
+
+Q: why do Neural Nets not mind the cold weather?
+A: because they can just add more layers
+
+#aipun"
+1026649034906165249,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,387,0,Tue Aug 07 01:59:38 +0000 2018,"RT @karpathy: ""An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling"" https://t.co/N8xk2OHtd8 good…"
+1025559648122765314,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,1,Sat Aug 04 01:50:48 +0000 2018,https://t.co/E3jZ0HG64h
+1025287436694249473,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Fri Aug 03 07:49:08 +0000 2018,"Top H-Index for Computer Science and Electronics
+https://t.co/nmf3J1E734"
+1025263205042413568,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Fri Aug 03 06:12:51 +0000 2018,"Will self-driving cars kill parking?
+
+https://t.co/vvGd5yO5nH"
+1025258085449748480,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Fri Aug 03 05:52:30 +0000 2018,"China Dethroned by Japan as World's Second-Biggest Stock Market
+
+https://t.co/nzBGlLjbPH"
+1024714723277791232,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,3,Wed Aug 01 17:53:22 +0000 2018,Working from Google SF today! Look at the view... #sf #working #Google #googlesf https://t.co/uKIQNIr15s
+1024668167258304513,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,2,Wed Aug 01 14:48:23 +0000 2018,Wow! Apple is only $15B away from being a trillion dollar company. #Apple #stocks
+1023023890723786752,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,57,0,Sat Jul 28 01:54:37 +0000 2018,"RT @ylecun: Jitendra Malik, who directs FAIR-Menlo Park, talks about the future of computer vision in his acceptance talk after receiving t…"
+1022724170826670080,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,1,Fri Jul 27 06:03:38 +0000 2018,https://t.co/Ln6GVgcKmO
+1022238198053781504,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,1,Wed Jul 25 21:52:33 +0000 2018,Wow! Facebook stock is 25% down after the earning report! #Facebook #earnings
+1022017892240576512,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,1,Wed Jul 25 07:17:08 +0000 2018,"How Irresponsible Mortgage Lenders Created A Second Housing Bubble
+
+https://t.co/kcPkmKsC2V"
+1020708690100273157,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Sat Jul 21 16:34:50 +0000 2018,https://t.co/0d97FVASrs
+1019781802066567168,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Thu Jul 19 03:11:42 +0000 2018,Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines #machinelearning https://t.co/y9aVE4QAHE
+1019625077174775808,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Wed Jul 18 16:48:56 +0000 2018,"https://t.co/K71D9LvS4P
+
+#Android #Google"
+1019435390539689984,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,1,Wed Jul 18 04:15:11 +0000 2018,https://t.co/qDSMGTUdmO
+1019434784001409024,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Wed Jul 18 04:12:47 +0000 2018,https://t.co/Ik8n1YTBvu
+1019032893820006400,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Tue Jul 17 01:35:49 +0000 2018,It seems Amazon servers cannot carry the load on prime day! #AmazonPrimeDay #amazon #primedayfail https://t.co/ofH1LocKKr
+1018551754202312704,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Sun Jul 15 17:43:56 +0000 2018,Congrats to my French friends for winning the world cup. I had correctly predicted that they will be the champion… https://t.co/rztdGCVXIz
+1017885207116910592,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,1,Fri Jul 13 21:35:19 +0000 2018,Google AI Blog:Accelerated Training and Inference with the Tensorflow Object Detection API https://t.co/12JrATHNOr via @googleresearch
+1017662185948864512,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,2,Fri Jul 13 06:49:07 +0000 2018,https://t.co/7aNI1Sozq0
+1017243418609635328,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,218,0,Thu Jul 12 03:05:05 +0000 2018,"RT @TensorFlow: TensorFlow v1.9 includes new getting started materials: a guide for tf.keras, beginner-friendly notebooks, and more example…"
+1016885605827993600,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Wed Jul 11 03:23:15 +0000 2018,"Tax cut triggers $437 billion explosion of stock buybacks
+https://t.co/BLuM7WeNxN"
+1012025912814997504,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,227,0,Wed Jun 27 17:32:34 +0000 2018,"RT @GoogleAI: In a new paper, Google Research Scientists @alirezafathi @kevskibombom @sguada @abhi2610 @cvondrick introduce a network that…"
+1012025868279902208,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,150,0,Wed Jun 27 17:32:24 +0000 2018,"RT @cvondrick: Our latest work shows that learning to colorize videos causes visual tracking to emerge automatically!
+
+Blog: https://t.co/F…"
+1000970497885007872,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Mon May 28 05:22:18 +0000 2018,@SergioRamos @ChampionsLeague @realmadrid Disgusting piece of shit
+996371068737785857,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,3,2,Tue May 15 12:45:49 +0000 2018,https://t.co/TK57J6ddhR
+991065053079195648,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,35686,0,Mon Apr 30 21:21:36 +0000 2018,"RT @SenSanders: You know what Amazon paid in federal income taxes last year?
+
+Zero. https://t.co/2bVwXQNATl"
+989221631070429184,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,343,0,Wed Apr 25 19:16:30 +0000 2018,"RT @Google: So many different students, but just one of you. Take the pressure off your prep with video lessons from Google: https://t.co/v…"
+989194608067297280,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,270,0,Wed Apr 25 17:29:07 +0000 2018,"RT @AndrewYNg: Podcast on building AI businesses and AI's societal impact, w/ @GreylockVC Greymatter. Thanks @saranormous for doing this wi…"
+989194424633647105,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,66,0,Wed Apr 25 17:28:23 +0000 2018,RT @MicrosoftJobs: It's been two years since this @HoloLens engineer joined Microsoft through its program to hire people with autism. https…
+988999669685481472,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Wed Apr 25 04:34:30 +0000 2018,3D vision is going to be hot again! For a few years the computer vision community was focused on making deep learni… https://t.co/Z0qVjExMOU
+988998463495942144,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Wed Apr 25 04:29:43 +0000 2018,What are ur thoughts regarding Nvidia stock? Many large companies like Alphabet and Amazon are not buying as many G… https://t.co/nB6TLry3jm
+988811327937236992,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Tue Apr 24 16:06:06 +0000 2018,The stock market is going to be downwards from here for a while! #StockMarket #nasdaq #dow
+988449560052690945,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Mon Apr 23 16:08:34 +0000 2018,Unless air pods come to Apple’s rescue this quarter earning! Don’t think iPhones 8 or X have sold well enough! Appl… https://t.co/cl0cTEpsPC
+968533675380948993,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Tue Feb 27 17:09:57 +0000 2018,I worship everything Warren Buffett says or does. The only thing I never understand is why he buys Apple stock!… https://t.co/kSk1cWvO3U
+963488747714048000,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,420,0,Tue Feb 13 19:03:12 +0000 2018,"RT @TensorFlow: The TensorFlow Object Detection API has been updated with image segmentation! 
+
+Check it out 👉 https://t.co/lxaeuzW11u http…"
+962161597044027392,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,4,8,Sat Feb 10 03:09:35 +0000 2018,"We have just released the instance segmentation support for the Tensor Flow Object Detection API.
+
+#TensorFlow… https://t.co/laalhneQw1"
+959525056412971008,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,1,0,Fri Feb 02 20:32:55 +0000 2018,Bubble bursting day #housemarket #realstate #stock #StockMarket #cryptocurrency
+954874557034213376,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Sun Jan 21 00:33:29 +0000 2018,Buying from Amazon vs. others https://t.co/iKd2ADLmAL #Amazon  #AmazonHQ2  #AmazonPrime #Walmart #BESTBUY #Costco
+953065759650988033,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,1,Tue Jan 16 00:45:58 +0000 2018,Bay area house prices in 2018 https://t.co/EGGPWFiH8d #realestate #PaloAlto #homebuyers #BayArea #Realtor #Agents
+914425449970753536,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,1,Sun Oct 01 09:43:11 +0000 2017,Interesting read on the current state of image classification https://t.co/1OIYkgoZoF
+910681783586381824,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Thu Sep 21 01:47:11 +0000 2017,What hppened in every one minute of 2017! https://t.co/GRhblBXcqW
+905345955863474176,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,0,Wed Sep 06 08:24:31 +0000 2017,Last weekend was the warmest in the history of the bay area #GlobalWarming #IrmaHurricane #whatisgoingon
+839201805791703041,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,1,Tue Mar 07 19:51:16 +0000 2017,@drfeifei Congrats @drfeifei and Timnit
+794410657357565953,61996048,336,178,145,5,111,Sat Aug 01 08:37:59 +0000 2009,0,1,Fri Nov 04 05:27:14 +0000 2016,"Zucchini iPhone App
+https://t.co/yMqJGYOH0q"
