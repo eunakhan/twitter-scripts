@@ -17,11 +17,11 @@ api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True, 
 
 for i in range(len(li)):
     ids_frnd = []
-    for page_fol in tweepy.Cursor(api.friends_ids, user_id=li[i], count=5000).pages():
+    for page_fol in tweepy.Cursor(api.get_friend_ids, user_id=li[i], count=5000).pages():
         ids_frnd.extend(page_fol)
     
-    
-print(ids_frnd)
+    print("Friends of " + li[i] + ":")
+    print(ids_frnd)
 
 
 
